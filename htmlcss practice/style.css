@@ -1,0 +1,141 @@
+
+header{
+    width: 100%;
+    height: 60px;
+    background-color:black;
+}
+
+div.top img {
+    width: 400px;
+    vertical-align: bottom;
+    
+}
+
+
+
+header ul li{
+  float:left;
+  list-style:none;
+  padding-right:65px;
+  color:grey;
+  font-size:20px;
+  line-height: 60px;
+}
+
+
+h1{ 
+    padding: 0 0 0 .5em;
+    border-left: 6px solid #000000;
+    border-bottom: 2px solid #000000;
+    color: #000000;
+    font-weight:  bold;
+    font-size: 32px;
+  }
+
+
+
+
+
+.left{
+  float:left;
+  width:1100px;
+  height:1440px;
+  border-top:solid
+  blue 5px;
+  border-right: solid
+  blue 5px;
+  border-bottom: solid
+  blue 5px;
+  margin-top: 5px;
+     }
+
+.right{
+  float:right;
+  width:390px;
+  height:1440px;
+  border-top: solid
+  red 5px;
+  border-left: solid
+  red 5px;
+  border-bottom: solid
+  red 5px;
+  margin-top: 5px;
+      }
+
+
+div.pic img { text-align: left;
+      width: 1100px;
+      padding-top: 10px;
+    
+}
+
+
+.nakami {
+    font-size: 24px;
+    padding-left:20px;    
+}
+
+.box2{
+  width:1100px;
+  background-color: lightgray;
+  text-align:center;
+}
+.box2 img{
+  width:220px;
+  margin:30px 1px -10px 10px;
+}
+.box2 .box_pic2{
+  display:inline-block;
+}
+
+.box3{
+  width:1100px;
+  background-color: lightgray;
+  text-align:center;
+}
+.box3 img{
+  width:220px;
+  margin:30px 1px -10px 10px;
+}
+.box3 .box_pic3{
+  display:inline-block;
+ }
+    
+
+
+
+h2{ padding: .1em 0 0 .5em;
+    border-bottom: 1px solid #000000;
+    color: #000000;
+    font-weight:  bold;
+    font-size: 20px;
+    }
+
+h3{ padding: .1em 0 0 .5em;
+    border-bottom: 1px solid #000000;
+    color: #000000;
+    font-weight:  bold;
+    font-size: 20px;
+    }
+
+h4{ padding: .1em 0 0 .5em;
+    border-bottom: 1px solid #000000;
+    color: #000000;
+    font-weight:  bold;
+    font-size: 20px;
+    }
+
+.menu1{padding-left: 50px;}
+.menu2{padding-left: 50px;}
+.menu3{padding-left: 50px;}
+
+footer{ clear:left;
+  display:block;   
+  width:100%;
+  height:60px;
+  font-size: 24px;
+  color:white;
+  background-color:black;
+  text-align:center;
+  line-height:60px
+}
