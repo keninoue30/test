@@ -31,7 +31,7 @@ mb_internal_encoding("utf8");
         $comments ='';
         }        
 ?>
-        <h1>お問い合わせフォーム</h1>
+        <h1>お問い合わせフォーム2</h1>
     
  
       
